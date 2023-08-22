@@ -101,13 +101,24 @@ btn{
     color: #24504D;
 }
 
+.color-five{
+    color: #707070;
+}
 .cup-bg{
     background-image: url(Assets/cup.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-/* #AEA7A1
-#A3C725
-#FFFFFF */
+.c-btn{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #A3C725;
+    color:white;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 10px;
+    border: none;
+    padding: 15px 8px;
+
+}
 
