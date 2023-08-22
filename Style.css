@@ -72,6 +72,16 @@ btn{
 
 }
 
+.manu-item{
+    text-decoration: none;
+     color: #AEA7A1;
+}
+
+.custom-text{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
 .custom-border{
     border: 2px solid #AEA7A1 ;
     width: 100%;
