@@ -65,6 +65,13 @@ btn{
     margin-top: -150px;
 }
 
+.smaill-text{
+    font-size: 14px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
 .custom-border{
     border: 2px solid #AEA7A1 ;
     width: 100%;
